@@ -1,1 +1,1 @@
-Sitemap: https://greenelab.github.io/lab-website-template/sitemap.xml
+Sitemap: https://mahshidbaharifar.github.io/mylabwebsite/sitemap.xml
