@@ -1,17 +1,17 @@
 # site properties and page defaults
-title: MAIF 
-subtitle: Mathematical AI Foundations
-description: Offering deep insights and exploring a new world of awareness.
+title: MOfAI 
+subtitle: Mathematics of Artificial Intelligence
+description: Exploring the mathematical foundations that drive advancements in artificial intelligence, from fundamental theories to practical applications.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: your-lab
+  email: https://mahshidbaharifar.github.io/mylabwebsite
+  orcid: 0049-0176-378-8055
+  google-scholar: https://scholar.google.com/citations?hl=en&user=OPUIwIoAAAAJ
+  github: https://github.com/MahshidBaharifar
   twitter: YourLabHandle
   youtube: YourLabChannel
 
